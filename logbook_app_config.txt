@@ -1,4 +1,4 @@
-STATUS=OFF
+STATUS=ON
 QUESTION=2500 + 3 =
 PASS=2503
 MESSAGE=Aplikasi sedang maintenance. Hubungi developer.
